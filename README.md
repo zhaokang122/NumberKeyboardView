@@ -10,6 +10,10 @@
 
 <img src='https://gitee.com/plain-dev/oss/raw/master/upic_library/8dr7qE.gif' width = '300' style="float:left"   />
 
+### 开发日志
+
+可在博客中查看文章，[自定义View之数字键盘 (NumberKeyboardView)](https://i97.top/number-keyboard-view/)
+
 ### 其它
 
 1. 感谢🙏项目[WeChatPswKeyboard](https://github.com/zuiwuyuan/WeChatPswKeyboard)，本项目是由此修改而来
