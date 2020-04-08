@@ -12,7 +12,7 @@
 
 ### 开发日志
 
-可在博客中查看文章，[自定义View之数字键盘 (NumberKeyboardView)](https://i97.top/number-keyboard-view/)
+可在博客中查看文章，[自定义View之数字键盘 (NumberKeyboardView)](https://plain-dev.com/number-keyboard-view/)
 
 ### 其它
 
